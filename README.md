@@ -7,7 +7,7 @@ This is a console app to manage NFL team depth charts. It is able to add, remove
   - Add new player to the chart at given depth or at the end of the list.
   - Player team number is unique.
 - **Remove a player**
-  - Remove player from a depth position or empty if not found / not valid.
+  - Remove player from a depth position or return empty if not found / not valid.
 - **Get backups of player**
   - Show the list of backups of a given player.
   - Return empty list if there are no backups or player is not valid.
