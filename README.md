@@ -18,7 +18,7 @@ This is a console app to manage NFL team depth charts. It is able to add, remove
 
 ## Additional Features
 - Multiple NFL teams can be added and managed.
-- Categories display by NFL position categories.
+- Full teams depth chart is displayed and grouped by NFL position categories.
 - Saving mechanism for updated depth chart file.
 
 ## Design Patterns Scalability
