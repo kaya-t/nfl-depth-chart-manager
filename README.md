@@ -1,4 +1,4 @@
-# NFL Depth Chart Manager
+# .❀。• *₊°。 ❀°。NFL Depth Chart Manager .❀。• *₊°。 ❀°。
 
 This is a console app to manage NFL team depth charts. It is able to add, remove, and view players in the depth chart, as well as print the entire depth chart for NFL teams. 
 
@@ -42,7 +42,7 @@ This is a console app to manage NFL team depth charts. It is able to add, remove
 ## Team selection
 In the beginning of the console prompts, team selection is shown. 
 - If `enter` key is pressed, the default team in the `/nfl_teams` will be selected, which is the first team in the json file.
-- To select an existing other teams, enter the the team name value, if it is valid, the existing team will be selected. Otherwise, a new team will be regenerated for the depth chart. 
+- To select an existing other teams, enter the the team name value, if it is valid, the existing team will be selected. Otherwise, a new team will be generated for the depth chart. 
 
 ## Assumptions
 - If a depth value which is higher than current available depth position is set for Add player, the new player will be added at the end of the list.
