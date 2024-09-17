@@ -18,7 +18,8 @@ This is a console app to manage NFL team depth charts. It is able to add, remove
 
 ## Additional Features
 - Multiple NFL teams can be added and managed.
-- Categories display by NFL position categories.  
+- Categories display by NFL position categories.
+- Saving mechanism for updated depth chart file.
 
 ## Design Patterns Scalability
 - Other sport can be extended from the initial factory pattern implementation -`ISportFactory`.
