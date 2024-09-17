@@ -27,7 +27,7 @@ This is a console app to manage NFL team depth charts. It is able to add, remove
 ## Limitations
 - Each console session is for one selected team only, to modify or add different NFL team, console app needs to be restarted.
 - No capability to go back to previous submitted user input.
-- Extended safeguarding of valid players details (e.g. players depth chart count per position) according to NFL.  
+- Extended safeguarding of valid players details or NFL team requirements (e.g. players depth chart count per position).
  
 ## Navigation options - press the following
 - "1" to Add player to team
@@ -40,19 +40,20 @@ This is a console app to manage NFL team depth charts. It is able to add, remove
 
 ## Assumptions
 - If a depth value which is higher than current available depth position is set for Add player, the new player will be added at the end of the list.
-- An existing NFL chart with team values are set by default as JSON file. 
+- An existing NFL chart with team values are set by default as JSON file - see `/nfl_teams`. 
 
 ## Run the NFL Depth Chart Manager
 
 ***Pre-reqs***
-Download. .NET 8.0https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+Download .NET 8.0https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
-```json
-cd 
+```
+cd NFLDepthChartManager
+dotnet run
 ```
 
 ## Run Unit Tests
-
-```json
-cd 
+```
+cd NFLDepthChartManager.Tests
+dotnet test
 ```
