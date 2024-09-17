@@ -1,0 +1,193 @@
+{
+  "Tampa Bay Buccaneers": {
+    "LWR": [
+      {
+        "Number": 14,
+        "Name": "Fourteen",
+        "Position": "LWR",
+        "Category": "Offense"
+      },
+      {
+        "Number": 13,
+        "Name": "Thirteen",
+        "Position": "LWR",
+        "Category": "Offense"
+      }
+    ],
+    "QB": [
+      {
+        "Number": 12,
+        "Name": "Twelve",
+        "Position": "QB",
+        "Category": "Offense"
+      },
+      {
+        "Number": 11,
+        "Name": "Eleven",
+        "Position": "QB",
+        "Category": "Offense"
+      }
+    ],
+    "RB": [
+      {
+        "Number": 7,
+        "Name": "Seven",
+        "Position": "RB",
+        "Category": "Offense"
+      },
+      {
+        "Number": 21,
+        "Name": "Twenty-One",
+        "Position": "RB",
+        "Category": "Offense"
+      }
+    ],
+    "DE": [
+      {
+        "Number": 90,
+        "Name": "Ninety",
+        "Position": "DE",
+        "Category": "Defense"
+      },
+      {
+        "Number": 94,
+        "Name": "Ninety-Four",
+        "Position": "DE",
+        "Category": "Defense"
+      }
+    ],
+    "CB": [
+      {
+        "Number": 24,
+        "Name": "Twenty-Four",
+        "Position": "CB",
+        "Category": "Defense"
+      },
+      {
+        "Number": 35,
+        "Name": "Thirty-Five",
+        "Position": "CB",
+        "Category": "Defense"
+      }
+    ],
+    "PT": [
+      {
+        "Number": 8,
+        "Name": "Eight",
+        "Position": "PT",
+        "Category": "SpecialTeams"
+      }
+    ],
+    "IR": [
+      {
+        "Number": 19,
+        "Name": "Nineteen",
+        "Position": "IR",
+        "Category": "Reserves"
+      },
+      {
+        "Number": 14,
+        "Name": "Fourteen",
+        "Position": "IR",
+        "Category": "Reserves"
+      }
+    ]
+  },
+  "Eagles": {
+    "LWR": [
+      {
+        "Number": 16,
+        "Name": "Sixteen",
+        "Position": "LWR",
+        "Category": "Offense"
+      },
+      {
+        "Number": 19,
+        "Name": "Nineteen",
+        "Position": "LWR",
+        "Category": "Offense"
+      }
+    ],
+    "QB": [
+      {
+        "Number": 1,
+        "Name": "One",
+        "Position": "QB",
+        "Category": "Offense"
+      },
+      {
+        "Number": 2,
+        "Name": "Two",
+        "Position": "QB",
+        "Category": "Offense"
+      }
+    ],
+    "RB": [
+      {
+        "Number": 10,
+        "Name": "Ten",
+        "Position": "RB",
+        "Category": "Offense"
+      },
+      {
+        "Number": 5,
+        "Name": "Five",
+        "Position": "RB",
+        "Category": "Offense"
+      }
+    ],
+    "DE": [
+      {
+        "Number": 91,
+        "Name": "Ninety-One",
+        "Position": "DE",
+        "Category": "Defense"
+      },
+      {
+        "Number": 93,
+        "Name": "Ninety-Three",
+        "Position": "DE",
+        "Category": "Defense"
+      }
+    ],
+    "CB": [
+      {
+        "Number": 26,
+        "Name": "Twenty-Six",
+        "Position": "CB",
+        "Category": "Defense"
+      },
+      {
+        "Number": 30,
+        "Name": "Thirty",
+        "Position": "CB",
+        "Category": "Defense"
+      }
+    ],
+    "PK": [
+      {
+        "Number": 4,
+        "Name": "Four",
+        "Position": "PK",
+        "Category": "SpecialTeams"
+      }
+    ],
+    "IR": [
+      {
+        "Number": 25,
+        "Name": "Twenty-Five",
+        "Position": "IR",
+        "Category": "Reserves"
+      },
+      {
+        "Number": 17,
+        "Name": "Seventeen",
+        "Position": "IR",
+        "Category": "Reserves"
+      }
+    ]
+  },
+  "hell000oooo": {
+    "QB": []
+  }
+}
